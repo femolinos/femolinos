@@ -20,7 +20,6 @@ Atualmente trabalhando como **Desenvolvedor Fullstack na SuaMEi**, desenvolvendo
 
 - 🔭 Atualmente trabalhando em projetos com **React.js**, **Node.js** e **TypeScript**
 - 🌱 Sempre aprendendo sobre novas tecnologias e melhores práticas
-- 💬 Pergunte-me sobre **React, Next.js, Node.js, TypeScript**
 - 🌍 Inglês avançado
 - ⚡ Experiência com **Web3** e **Solidity**
 

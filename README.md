@@ -21,7 +21,6 @@ Atualmente trabalhando como **Desenvolvedor Fullstack na SuaMEi**, desenvolvendo
 - 🔭 Atualmente trabalhando em projetos com **React.js**, **Node.js** e **TypeScript**
 - 🌱 Sempre aprendendo sobre novas tecnologias e melhores práticas
 - 🌍 Inglês avançado
-- ⚡ Experiência com **Web3** e **Solidity**
 
 ---
 
@@ -44,9 +43,6 @@ Atualmente trabalhando como **Desenvolvedor Fullstack na SuaMEi**, desenvolvendo
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Blockchain
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Ferramentas
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -92,12 +88,8 @@ Desenvolvimento de SaaS para regularização de contratação de funcionários n
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=femolinos&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=femolinos&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=femolinos&theme=radical&hide_border=true)
 
 </div>
 
@@ -144,4 +136,3 @@ Estou sempre aberto a novos desafios e oportunidades! Se você quer conversar so
 ![Profile Views](https://komarev.com/ghpvc/?username=femolinos&color=blueviolet&style=for-the-badge)
 
 </div>
-```

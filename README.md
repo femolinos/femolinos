@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 Olá, eu sou Felipe Molinos!
+# 👋 Hello, I'm Felipe Molinos!
 
-### Desenvolvedor Full Stack | React.js | Node.js | TypeScript
+### Full Stack Developer | React.js | Node.js | TypeScript
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-molinos)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://felipemolinos.dev)
@@ -12,15 +12,15 @@
 
 ---
 
-## 🚀 Sobre Mim
+## 🚀 About Me
 
-Desenvolvedor Full Stack apaixonado por tecnologia, com ampla experiência em desenvolvimento web moderno. Formado em **Ciência da Computação** pela Universidade Feevale e constantemente me atualizando através de programas como **Ignite (Rocketseat)** e **JStack**.
+Full Stack Developer passionate about technology, with extensive experience in modern web development. Graduated in **Computer Science** from Universidade Feevale and constantly improving through programs like **Ignite (Rocketseat)** and **JStack**.
 
-Atualmente trabalhando como **Desenvolvedor Fullstack na SuaMEi**, desenvolvendo soluções SaaS para regularização de contratação de funcionários PJ, com foco em criar experiências de usuário intuitivas e sistemas robustos.
+Currently working as a **Fullstack Developer at SuaMEi**, building SaaS solutions for the regularization of hiring contractors, focusing on intuitive user experiences and robust systems.
 
-- 🔭 Atualmente trabalhando em projetos com **React.js**, **Node.js** e **TypeScript**
-- 🌱 Sempre aprendendo sobre novas tecnologias e melhores práticas
-- 🌍 Inglês avançado
+- 🔭 Currently working on projects using **React.js**, **Node.js**, and **TypeScript**
+- 🌱 Always learning about new technologies and best practices
+- 🌍 Advanced English
 
 ---
 
@@ -44,44 +44,44 @@ Atualmente trabalhando como **Desenvolvedor Fullstack na SuaMEi**, desenvolvendo
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Ferramentas
+### Tools
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 
 ---
 
-## 💼 Experiência Profissional
+## 💼 Professional Experience
 
-### 🏢 SuaMEi | Desenvolvedor Fullstack
-**julho de 2023 - Presente** • Curitiba, PR
+### 🏢 SuaMEi | Fullstack Developer
+**July 2023 - Present** • Curitiba, PR - Brazil
 
-Desenvolvimento de SaaS para regularização de contratação de funcionários na modalidade PJ.
-- Programação de interfaces com **React.js**, **React Native**, **TypeScript** e **TailwindCSS**
-- Desenvolvimento de funcionalidades back-end com **Node.js**, **MongoDB** e **PostgreSQL**
-- Arquitetura e implementação de features completas (front + back)
+SaaS development for regularization of contractor hiring.
+- Interface development using **React.js**, **React Native**, **TypeScript** and **TailwindCSS**
+- Backend development with **Node.js**, **MongoDB** and **PostgreSQL**
+- Architecture and implementation of end-to-end features (front + back)
 
-### 🏢 DinoCode Technologies | Dev Front-end & Blockchain
-**fevereiro de 2022 - maio de 2023** • Porto Alegre, RS
+### 🏢 DinoCode Technologies | Front-end & Blockchain Developer
+**February 2022 - May 2023** • Porto Alegre, RS - Brazil
 
-- Desenvolvimento de websites e apps mobile com **React.js** e **React Native**
-- Implementação de smart contracts com **Solidity**
-- Projetos em **Web3** e **blockchain**
+- Website and mobile app development with **React.js** and **React Native**
+- Smart contract implementation using **Solidity**
+- Projects in **Web3** and **blockchain**
 
-### 🏢 Triplano | Desenvolvedor Front-end
-**outubro de 2021 - fevereiro de 2022** • Porto Alegre, RS
+### 🏢 Triplano | Front-end Developer
+**October 2021 - February 2022** • Porto Alegre, RS - Brazil
 
-- Desenvolvimento de interfaces com **React.js**, **Next.js** e **Styled Components**
-- Participação em projetos blockchain
+- UI development with **React.js**, **Next.js** and **Styled Components**
+- Participation in blockchain projects
 
-### 🏢 BringUP | Estagiário de Desenvolvimento
-**dezembro de 2019 - julho de 2020** • Novo Hamburgo, RS
+### 🏢 BringUP | Development Intern
+**December 2019 - July 2020** • Novo Hamburgo, RS - Brazil
 
-- Desenvolvimento front-end com **HTML5**, **CSS3** e **JavaScript**
+- Front-end development with **HTML5**, **CSS3** and **JavaScript**
 
-### 🏢 CIGAM Software | Estagiário de Customização
-**novembro de 2018 - novembro de 2019** • Novo Hamburgo, RS
+### 🏢 CIGAM Software | Customization Intern
+**November 2018 - November 2019** • Novo Hamburgo, RS - Brazil
 
-- Customizações utilizando **Magic XPA** e **PL/SQL**
+- Customizations using **Magic XPA** and **PL/SQL**
 
 ---
 
@@ -95,28 +95,28 @@ Desenvolvimento de SaaS para regularização de contratação de funcionários n
 
 ---
 
-## 🎓 Formação
+## 🎓 Education
 
-**🎓 Bacharelado em Ciência da Computação**  
+**🎓 Bachelor of Computer Science**  
 Universidade Feevale | 2017 - 2022
 
-**🎓 Pós graduação em Desenvolvimento Fullstack**  
+**🎓 Postgraduate Degree in Fullstack Development**  
 Rocketseat | 2024 - 2025
 
-**🚀 Ignite - Desenvolvimento Fullstack**  
+**🚀 Ignite - Fullstack Development**  
 Rocketseat | 2022 - 2023
 
-**💻 Desenvolvimento Fullstack**  
-JStack | 2023 - Presente
+**💻 Fullstack Development**  
+JStack | 2023 - Present
 
-**🗣️ Inglês Avançado**  
+**🗣️ Advanced English**
 Wizard Idiomas
 
 ---
 
-## 📫 Vamos Conectar?
+## 📫 Let's Connect?
 
-Estou sempre aberto a novos desafios e oportunidades! Se você quer conversar sobre tecnologia, projetos ou oportunidades de colaboração, não hesite em me contatar:
+I’m always open to new challenges and opportunities! If you want to talk about technology, projects, or collaboration opportunities, feel free to reach out:
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Estou sempre aberto a novos desafios e oportunidades! Se você quer conversar so
 
 <div align="center">
   
-### ⚡ *"Código limpo não é escrito seguindo regras. É escrito por desenvolvedores que se importam."* ⚡
+### ⚡ *"Clean code isn’t written by following rules. It’s written by developers who care."* ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=femolinos&color=blueviolet&style=for-the-badge)
 

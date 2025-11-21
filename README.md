@@ -100,17 +100,17 @@ Desenvolvimento de SaaS para regularização de contratação de funcionários n
 **🎓 Bacharelado em Ciência da Computação**  
 Universidade Feevale | 2017 - 2022
 
+**🎓 Pós graduação em Desenvolvimento Fullstack**  
+Rocketseat | 2024 - 2025
+
 **🚀 Ignite - Desenvolvimento Fullstack**  
 Rocketseat | 2022 - 2023
 
 **💻 Desenvolvimento Fullstack**  
-JStack | 2023 - 2024
+JStack | 2023 - Presente
 
 **🗣️ Inglês Avançado**  
 Wizard Idiomas
-
-**📜 Certificação: NLW Unite - Node.js**  
-Rocketseat
 
 ---
 

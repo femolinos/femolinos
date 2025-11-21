@@ -56,7 +56,7 @@ Atualmente trabalhando como **Desenvolvedor Fullstack na SuaMEi**, desenvolvendo
 **julho de 2023 - Presente** • Curitiba, PR
 
 Desenvolvimento de SaaS para regularização de contratação de funcionários na modalidade PJ.
-- Programação de interfaces com **React.js**, **React Native**, **TypeScript** e **Redux**
+- Programação de interfaces com **React.js**, **React Native**, **TypeScript** e **TailwindCSS**
 - Desenvolvimento de funcionalidades back-end com **Node.js**, **MongoDB** e **PostgreSQL**
 - Arquitetura e implementação de features completas (front + back)
 

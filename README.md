@@ -53,7 +53,7 @@ Currently working as a **Fullstack Developer at SuaMEi**, building SaaS solution
 ## 💼 Professional Experience
 
 ### 🏢 SuaMEi | Fullstack Developer
-**July 2023 - Present** • Curitiba, PR - Brazil
+**July 2023 - November 2025** • Curitiba, PR - Brazil
 
 SaaS development for regularization of contractor hiring.
 - Interface development using **React.js**, **React Native**, **TypeScript** and **TailwindCSS**

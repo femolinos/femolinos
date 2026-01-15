@@ -16,7 +16,7 @@
 
 Full Stack Developer passionate about technology, with extensive experience in modern web development. Graduated in **Computer Science** from Universidade Feevale and constantly improving through programs like **Ignite (Rocketseat)** and **JStack**.
 
-Currently working as a **Fullstack Developer at SuaMEi**, building SaaS solutions for the regularization of hiring contractors, focusing on intuitive user experiences and robust systems.
+Currently working as a **Fullstack Developer at Berry Consulting**, building a CRM (Customer Relationship Management) tool to boost clients' growth and improve their processes.
 
 - 🔭 Currently working on projects using **React.js**, **Node.js**, and **TypeScript**
 - 🌱 Always learning about new technologies and best practices
@@ -52,8 +52,15 @@ Currently working as a **Fullstack Developer at SuaMEi**, building SaaS solution
 
 ## 💼 Professional Experience
 
+### 🏢 Berry Consulting | Fullstack Developer
+**January 2026 - Current** • Curitiba, PR - Brazil
+
+- Interface development using **React.js**, **TypeScript**, **TailwindCSS** and **shadcn**
+- Backend development with **Node.js**, **ArangoDB** and **GraphQL**
+- Architecture and implementation of end-to-end features (front + back)
+
 ### 🏢 SuaMEi | Fullstack Developer
-**July 2023 - November 2025** • Curitiba, PR - Brazil
+**July 2023 - December 2025** • Curitiba, PR - Brazil
 
 SaaS development for regularization of contractor hiring.
 - Interface development using **React.js**, **React Native**, **TypeScript** and **TailwindCSS**

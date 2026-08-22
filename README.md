@@ -52,38 +52,50 @@ Currently working as a **Fullstack Developer at Berry Consulting**, building a C
 
 ## 💼 Professional Experience
 
-### 🏢 Berry Consulting | Fullstack Developer
-**January 2026 - Current** • Curitiba, PR - Brazil
+### 🏢 FCamara - Lojas Renner | Fullstack Developer
+**March 2026 - Current** • São Paulo, SP - Brazil
 
-- Interface development using **React.js**, **TypeScript**, **TailwindCSS** and **shadcn**
-- Backend development with **Node.js**, **ArangoDB** and **GraphQL**
-- Architecture and implementation of end-to-end features (front + back)
+- Worked as Contractor on Lojas Renner S.A, one of Brazil's largest retailers
+- Developed and maintained features for the Renner mobile application using **React Native** and **Typescript**
+- Collaborated with cross-functional teams to deliver scalable mobile solutions, integrating front-end applications with BFF (Back-end for Front-end) services in a micro front-end architecture
+- Applied **Clean Architecture** principles and component-based development to build maintainable, reusable, and scalable code using **Styled Components**
+- Implemented and maintained unit tests with **Jest**, helping ensure application stability and code quality
+
+### 🏢 Berry Consulting | Fullstack Developer
+**January 2026 - February 2026** • Curitiba, PR - Brazil
+
+- Actively participated in the development of a CRM system, which was responsible for acquiring and qualifying leads, using **React.js**, **Node.js**, **Typescript**, **TailwindCSS**, **NoSQL** and **GraphQL**
+- Developed an end-to-end OKR module for the system, enabling consultants to better manage the lifecycle of the company's customers, making it clearer and more intuitive for them. This feature had a direct impact on the number of customer referrals and upsells
 
 ### 🏢 SuaMEi | Fullstack Developer
 **July 2023 - December 2025** • Curitiba, PR - Brazil
 
-SaaS development for regularization of contractor hiring.
-- Interface development using **React.js**, **React Native**, **TypeScript** and **TailwindCSS**
-- Backend development with **Node.js**, **MongoDB** and **PostgreSQL**
-- Architecture and implementation of end-to-end features (front + back)
+- Developed and maintained SaaS applications using **React.js**, **React Native**, **Typescript**, **Redux** and **TailwindCSS**
+- Participated in refactoring a critical system page, contributing to 40% improvement in data loading speed and optimization
+- Collaborated in implementing unit tests covering 30% of back-end routes, enhancing system security and stability
+- Actively participated in war rooms and incident resolution, improving response to critical failures
+- Supported onboarding of new developers, improving internal workflows
 
 ### 🏢 DinoCode Technologies | Front-end & Blockchain Developer
 **February 2022 - May 2023** • Porto Alegre, RS - Brazil
 
-- Website and mobile app development with **React.js** and **React Native**
-- Smart contract implementation using **Solidity**
-- Projects in **Web3** and **blockchain**
+- Designed and created front-end features using **React.js**, **Next.js** and **React Native**
+- Implemented Web3 components using **Solidity** for blockchain applications
+- Refactored essential modules, improving stability and performance
+- Responsible for the front-end development of all company projects, directly supporting 100% of the company's MRR
 
 ### 🏢 Triplano | Front-end Developer
 **October 2021 - February 2022** • Porto Alegre, RS - Brazil
 
-- UI development with **React.js**, **Next.js** and **Styled Components**
-- Participation in blockchain projects
+- Built interfaces using **React.js**, **Next.js** and **Styled Components**
+- Optimized existing codebases, reducing performance bottlenecks
+- Contributed to the development of a new business division, supporting a 10% increase in the unit's MRR
 
 ### 🏢 BringUP | Development Intern
 **December 2019 - July 2020** • Novo Hamburgo, RS - Brazil
 
-- Front-end development with **HTML5**, **CSS3** and **JavaScript**
+- Developed new features and fixed production bugs
+- Learned about web development during internship
 
 ### 🏢 CIGAM Software | Customization Intern
 **November 2018 - November 2019** • Novo Hamburgo, RS - Brazil
